@@ -1,0 +1,11 @@
+.Comment {
+	color: #000;
+	font-size: 13px;
+	font-family: 'Roboto';
+	margin: 0 0 20px;
+}
+
+.Date {
+	color: #ccc;
+	margin-bottom: 5px;
+}
