@@ -33,7 +33,7 @@ const Popup = ({id, setPopup}) => {
 			console.log(res)
 			setData({img: res.url, comments: res.comments})
 		})
-	}, []);
+	}, [id]);
 
 	return (
 		<div className={styles.Popup_wrapper} onClick={() => setPopup({is:false, id: id})}>
