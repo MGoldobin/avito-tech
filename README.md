@@ -9,4 +9,4 @@
 ## 
  - ReactJS (hooks)
  - JavaScript (fetchAPI)
- - HTML, CSS (БЭМ)
+ - HTML, CSS (jsx, module.css)
