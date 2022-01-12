@@ -11,7 +11,6 @@ function Galery() {
 	    fetch('https://boiling-refuge-66454.herokuapp.com/images')
 	    .then(res => res.json())
 	    .then(res => {
-            console.log(res)
             setList(res)
         })
         .catch(error => console.log(error))
