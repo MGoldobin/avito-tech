@@ -2,7 +2,7 @@
  Тестовое задание для стажёра frontend (React)
  
 ## Макет и условия
-[Deploy on Vercel](https://avito-tech-b8kfcwv8m-mgoldobin-psuru.vercel.app/)  
+[Deploy on Vercel](https://avito-tech.vercel.app/)  
 [GitHub Avito](https://github.com/avito-tech/safedeal-frontend-trainee)  
 [Figma](https://www.figma.com/file/3VP0QDK3kjdfbkj8TRrtsx/Test-task?node-id=0%3A1)  
  
