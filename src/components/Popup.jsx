@@ -30,7 +30,6 @@ const Popup = ({id, setPopup}) => {
 		fetch('https://boiling-refuge-66454.herokuapp.com/images/'+id)
 		.then(res => res.json())
 		.then(res => {
-			console.log(res)
 			setData({img: res.url, comments: res.comments})
 		})
 	}, [id]);
